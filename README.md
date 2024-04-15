@@ -12,13 +12,14 @@ My background also includes roles in audit (big 4 & top 20 accounting firms), su
 
 🛠 Skills:
 
-Python
-SQL
-Power BI
-Agile Framework
-Financial Analysis
-Data Structures
-Communication
+* Python
+* SQL
+* Power BI
+* Agile Framework
+* Financial Analysis
+* Data Structures
+* Communication
+* SDLC
 
 I'm currently seeking opportunities to contribute to cutting-edge technologies and streamline critical processes in a dynamic environment. Let's connect!
 
