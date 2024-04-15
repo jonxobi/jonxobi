@@ -27,7 +27,7 @@ _My background also includes roles in audit **(big 4 & top 20 accounting firms)*
 * Diversifying my investment portfolio
 * Reading books on Audible
 * Creating YouTube videos to help young men improve their self-care habits
-* Travelling _(see the image of the most recent trip I took to Zanzibar!)_
+* Travelling _(see the image of the hotel from most recent trip I took to Zanzibar in February 2024!)_
   * Eating different cuisines 
   * Exploring different cultures and learning about the art and history
 
