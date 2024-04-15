@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Jonathan Owusu-Boadi
 
-📧 Email: jonowusuboadi@gmail.com
-📞 Phone: 07751735394
+📧 Email: jonowusuboadi@gmail.com <br>
+📞 Phone: 07751735394 <br>
 🔗 LinkedIn: www.linkedin.com/in/jonathanowusuboadi/
 
 _I'm a Data analyst transitioning into becoming a **Software Engineer** through developing a passion for leveraging **Python** to solve complex challenges due to constraints noticed in the financial sector._
