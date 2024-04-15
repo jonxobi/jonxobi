@@ -34,7 +34,7 @@ _My background also includes roles in audit **(big 4 & top 20 accounting firms)*
 I'm currently seeking opportunities to contribute to cutting-edge technologies and streamline critical processes in a dynamic environment. Let's connect! **See links above**
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.co.uk%2FHotel_Review-g616020-d23847559-Reviews-Ndame_Paje_Hotel-Paje_Zanzibar_Island_Zanzibar_Archipelago.html&psig=AOvVaw0HaqfvDPq84mMg5vX3dvza&ust=1713293111686000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjpsqzwxIUDFQAAAAAdAAAAABAJ">
- <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.co.uk%2FHotel_Review-g616020-d23847559-Reviews-Ndame_Paje_Hotel-Paje_Zanzibar_Island_Zanzibar_Archipelago.html&psig=AOvVaw0HaqfvDPq84mMg5vX3dvza&ust=1713293111686000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjpsqzwxIUDFQAAAAAdAAAAABAJ">
- <img alt="Image of my hotel stay in Paje, Zanzibar" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.co.uk%2FHotel_Review-g616020-d23847559-Reviews-Ndame_Paje_Hotel-Paje_Zanzibar_Island_Zanzibar_Archipelago.html&psig=AOvVaw0HaqfvDPq84mMg5vX3dvza&ust=1713293111686000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjpsqzwxIUDFQAAAAAdAAAAABAJ">
+ <source media="(prefers-color-scheme: dark)" srcset="https://cf.bstatic.com/xdata/images/hotel/max1024x768/477562932.jpg?k=729723ed12054de85b60d760453aab42d18a5c640e280403ab01630749f10a20&o=&hp=1">
+ <source media="(prefers-color-scheme: light)" srcset="https://cf.bstatic.com/xdata/images/hotel/max1024x768/477562932.jpg?k=729723ed12054de85b60d760453aab42d18a5c640e280403ab01630749f10a20&o=&hp=1">
+ <img alt="Image of my hotel stay in Paje, Zanzibar" src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/477562932.jpg?k=729723ed12054de85b60d760453aab42d18a5c640e280403ab01630749f10a20&o=&hp=1">
 </picture>
