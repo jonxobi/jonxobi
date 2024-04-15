@@ -23,6 +23,13 @@ _My background also includes roles in audit **(big 4 & top 20 accounting firms)*
 
 I'm currently seeking opportunities to contribute to cutting-edge technologies and streamline critical processes in a dynamic environment. Let's connect!
 
+🎲 Hobbies:
+
+* Running
+* Diversifying my investment portfolio
+* Reading books on Audible
+* Creating Youtube videos to help young men improve their self-care habits 
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://cookcountypublichealth.org/wp-content/uploads/2022/10/LaMar-Emoji-Blue-Background.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://cookcountypublichealth.org/wp-content/uploads/2022/10/LaMar-Emoji-Blue-Background.jpg">
