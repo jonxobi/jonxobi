@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jonathan Owusu-Boadi
+# Hi there! 👋🏾 I'm Jonathan Owusu-Boadi
 
 📧 Email: jonowusuboadi@gmail.com <br>
 📞 Phone: 07751735394 <br>
