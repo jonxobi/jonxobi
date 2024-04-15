@@ -4,7 +4,7 @@
 📞 Phone: 07751735394 <br>
 🔗 LinkedIn: www.linkedin.com/in/jonathanowusuboadi/
 
-_I'm a Data analyst transitioning into becoming a **Software Engineer** through developing a passion for leveraging **Python** to solve complex challenges due to constraints noticed in the financial sector._
+_I'm a Data analyst transitioning to be a **Software Engineer** through developing a passion for leveraging **Python** to solve complex challenges due to constraints noticed in the financial sector._
 
 _I've led projects to help the business secure significant credit lines implemented Power BI dashboards and collected data using Python. With hands-on experience in agile frameworks, **SQL**, and process automation, I'm committed to driving efficiency and delivering high-quality solutions._
 
