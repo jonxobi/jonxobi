@@ -27,14 +27,14 @@ _My background also includes roles in audit **(big 4 & top 20 accounting firms)*
 * Diversifying my investment portfolio
 * Reading books on Audible
 * Creating YouTube videos to help young men improve their self-care habits
-* Travelling (see image below)
+* Travelling _(see the image of the most recent trip I took to Zanzibar!)_
   * Eating different cuisines 
   * Exploring different cultures and learning about the art and history
 
 I'm currently seeking opportunities to contribute to cutting-edge technologies and streamline critical processes in a dynamic environment. Let's connect! **See links above**
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="file:///Users/jonathanowusu-boadi/Downloads/IMG_6962.HEIC">
- <source media="(prefers-color-scheme: light)" srcset="file:///Users/jonathanowusu-boadi/Downloads/IMG_6962.HEIC">
- <img alt="Image of my emoji using his laptop" src="file:///Users/jonathanowusu-boadi/Downloads/IMG_6962.HEIC">
+ <source media="(prefers-color-scheme: dark)" srcset="[file:///Users/jonathanowusu-boadi/Downloads/IMG_6962.HEIC](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/bc/48/88/ndame-paje-hotel.jpg?w=1200&h=-1&s=1)">
+ <source media="(prefers-color-scheme: light)" srcset="[file:///Users/jonathanowusu-boadi/Downloads/IMG_6962.HEIC](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/bc/48/88/ndame-paje-hotel.jpg?w=1200&h=-1&s=1)">
+ <img alt="Image of my hotel stay in Paje, Zanzibar" src="[file:///Users/jonathanowusu-boadi/Downloads/IMG_6962.HEIC](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/bc/48/88/ndame-paje-hotel.jpg?w=1200&h=-1&s=1)">
 </picture>
