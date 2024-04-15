@@ -31,7 +31,7 @@ _My background also includes roles in audit **(big 4 & top 20 accounting firms)*
   * Eating different cuisines 
   * Exploring different cultures and learning about the art and history
 
-I'm currently seeking opportunities to contribute to cutting-edge technologies and streamline critical processes in a dynamic environment. Let's connect! **See links above**
+**I'm currently seeking opportunities to contribute to cutting-edge technologies and streamline critical processes in a dynamic environment. Let's connect! (See links above)**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://cf.bstatic.com/xdata/images/hotel/max1024x768/477562932.jpg?k=729723ed12054de85b60d760453aab42d18a5c640e280403ab01630749f10a20&o=&hp=1">
