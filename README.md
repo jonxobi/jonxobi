@@ -21,17 +21,20 @@ _My background also includes roles in audit **(big 4 & top 20 accounting firms)*
 * Communication
 * SDLC
 
-I'm currently seeking opportunities to contribute to cutting-edge technologies and streamline critical processes in a dynamic environment. Let's connect!
-
 🎲 Hobbies:
 
 * Running
 * Diversifying my investment portfolio
 * Reading books on Audible
-* Creating Youtube videos to help young men improve their self-care habits 
+* Creating YouTube videos to help young men improve their self-care habits
+* Travelling (see image below)
+  * Eating different cuisines 
+  * Exploring different cultures and learning about the art and history
+
+I'm currently seeking opportunities to contribute to cutting-edge technologies and streamline critical processes in a dynamic environment. Let's connect! **See links above**
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://cookcountypublichealth.org/wp-content/uploads/2022/10/LaMar-Emoji-Blue-Background.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://cookcountypublichealth.org/wp-content/uploads/2022/10/LaMar-Emoji-Blue-Background.jpg">
- <img alt="Image of my emoji using his laptop" src="https://cookcountypublichealth.org/wp-content/uploads/2022/10/LaMar-Emoji-Blue-Background.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="file:///Users/jonathanowusu-boadi/Downloads/IMG_6962.HEIC">
+ <source media="(prefers-color-scheme: light)" srcset="file:///Users/jonathanowusu-boadi/Downloads/IMG_6962.HEIC">
+ <img alt="Image of my emoji using his laptop" src="file:///Users/jonathanowusu-boadi/Downloads/IMG_6962.HEIC">
 </picture>
