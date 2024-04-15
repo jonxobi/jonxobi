@@ -1,8 +1,22 @@
-# Hi there people 👋
+# Hi there! 👋 I'm Jonathan Owusu-Boadi
 
-**jonxobi/jonxobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 Email: jonowusuboadi@gmail.com
+📞 Phone: 07751735394
+🔗 LinkedIn: www.linkedin.com/in/jonathanowusuboadi/
 
-_🌱 I’m currently learning Python and how to use Git properly. It is a challenge and also very rewarding when your code works!_
+I'm a Data analyst transitioning into becoming a **Software Engineer** through developing a passion for leveraging Python to solve complex challenges due to constraints noticed in the financial sector. I've led projects to help the business secure significant credit lines implemented Power BI dashboards and collected data using Python. With hands-on experience in agile frameworks, SQL, and process automation, I'm committed to driving efficiency and delivering high-quality solutions. My background also includes roles in audit (big 4 & top 20 accounting firms), supply management and property tech, where I've utilized data-driven insights to improve processes, implement new pricing structures and boost revenues.
+
+_🛠 Skills:_
+
+Python
+SQL
+Power BI
+Agile Framework
+Financial Analysis
+Data Structures
+Communication
+
+I'm currently seeking opportunities to contribute to cutting-edge technologies and streamline critical processes in a dynamic environment. Let's connect!
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://cookcountypublichealth.org/wp-content/uploads/2022/10/LaMar-Emoji-Blue-Background.jpg">
